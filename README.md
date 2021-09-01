@@ -2,7 +2,7 @@
 ---------------------
 Mega.nz-Rclone-Index-Heroku
 
-![Demo](https://raw.githubusercontent.com/m4heshd/mega-rclone-index-heroku/main/.example_images/megaandindex.PNG)
+![Demo](https://raw.githubusercontent.com/m4heshd/mega-rclone-index-heroku/master/.example_images/megaandindex.PNG)
 
 #### Donate me BTC : 1J48LksQNiASuj48nwYATXdFzQSwdrnx7c
 ###### heroku-rclone-serve V3
@@ -24,7 +24,7 @@ Use your Real mega Username/Email and real Password (without encryption) normall
 
 ### Project completed but still under development
 
-![Demo](https://raw.githubusercontent.com/m4heshd/mega-rclone-index-heroku/main/.example_images/deployedV.PNG)
+![Demo](https://raw.githubusercontent.com/m4heshd/mega-rclone-index-heroku/master/.example_images/deployedV.PNG)
 
 ------------
 
@@ -34,7 +34,7 @@ Use your Real mega Username/Email and real Password (without encryption) normall
 
 ### Change Config Vars in settings of deployed application change email and password for swiching accounts
 
-# ![Demo-Deploying](https://raw.githubusercontent.com/m4heshd/mega-rclone-index-heroku/main/.example_images/newdeploying.PNG)
+# ![Demo-Deploying](https://raw.githubusercontent.com/m4heshd/mega-rclone-index-heroku/master/.example_images/newdeploying.PNG)
 
 ------------
 # Features
@@ -67,9 +67,9 @@ Use your Real mega Username/Email and real Password (without encryption) normall
 
 ##### Please Try to re-deploy if any error occurred, this is common because some of the files are hosted on my free server at cloudflare
 
-![Demo](https://raw.githubusercontent.com/m4heshd/mega-rclone-index-heroku/main/.example_images/samplemega.PNG)
+![Demo](https://raw.githubusercontent.com/m4heshd/mega-rclone-index-heroku/master/.example_images/samplemega.PNG)
 
-![Demo](https://raw.githubusercontent.com/m4heshd/mega-rclone-index-heroku/main/.example_images/megaandindex.PNG)
+![Demo](https://raw.githubusercontent.com/m4heshd/mega-rclone-index-heroku/master/.example_images/megaandindex.PNG)
 
 ### Tutorial of will be published soon
 
